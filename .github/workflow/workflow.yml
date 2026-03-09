@@ -17,5 +17,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/sudeshkumar1992june/learningapp400
-            azure-pipeline-name: 'learningapp500'
+            azure-pipeline-name: 'learningapp400'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
